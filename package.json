@@ -1,0 +1,33 @@
+{
+  "name": "node_express_mongo_demo",
+  "version": "1.0.0",
+  "description": "A simple todo app using Node Express and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shekargoud26/node_express_mongo_demo.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongo",
+    "mongoose",
+    "todo",
+    "mern"
+  ],
+  "author": "Shekar Goud Arukala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shekargoud26/node_express_mongo_demo/issues"
+  },
+  "homepage": "https://github.com/shekargoud26/node_express_mongo_demo#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.11",
+    "nodemon": "^2.0.2"
+  }
+}
